@@ -9,7 +9,7 @@ The purpose of the analysis is to identify the differences of data by different 
 
 The analysis required the creation of a ride sharing summary DataFrame by city type and a multiple-line chart of total fares for each city type. In order to create a summary DataFrame for PyBer, we merged the datasets, and then we calculated the total number of rides and drivers, the sum of fares, and the average fare per ride and per driver for each city type. To create the multiple-line chart, we created the following dataframes: a dataframe that shows the total fare amount of each date and time; a dataframe with date as index, city type as columns, and fare as values; a dataframe with a date range from 2019-01-01 to 2019-04-28; and a dataframe that showed the sum of fares per week.
 
-[]!(https://github.com/EnoVaqari/PyBer_Analysis/blob/main/analysis/PyBer_summary_df.png)
+![](https://github.com/EnoVaqari/PyBer_Analysis/blob/main/analysis/PyBer_summary_df.png)
 
 By analysing this summary DataFrame, we identify the following:
 
@@ -23,7 +23,7 @@ This miltiple-line chart shows the total fare by city type.
 
 
 
-[]!(https://github.com/EnoVaqari/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![](https://github.com/EnoVaqari/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 The chart above identifies the following:
